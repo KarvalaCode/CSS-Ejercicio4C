@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
 
-h1, p {
+h1 {
     font-family: 'Montserrat'
+    font-size: 600;
+}
+ p {
+    font-family: 'Montserrat'
+    font-size: 300;
 }
 
 #nombre, #frase {
